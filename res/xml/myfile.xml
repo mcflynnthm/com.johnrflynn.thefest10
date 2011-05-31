@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thefest>
+  <band>
+    <name>10-4 Eleanor</name>
+    <photo>/fest9/img/../uploads/band-photos/feature.d_fault53500.jpg</photo>
+    <mp3></mp3>
+    <description></description>
+    <songURL></songURL>
+    <albumArtURL></albumArtURL>
+    <songName></songName>
+    <shows>
+      <show>
+        <date>2010-10-29 19:10</date>
+        <length>30</length>
+        <venue>1982</venue>
+        <acoustic>false</acoustic>
+      </show>
+    </shows>
+  </band>
+  <band>
+    <name>1994!</name>
+    <photo>/fest9/img/../uploads/band-photos/feature.festsitepic.jpg</photo>
+    <mp3>http://www.thefestfl.com/fest9/uploads/band-songs/02_shut_up_the_fuck_up.mp3</mp3>
+    <description>We are a loud, 2 piece punk band from Lancaster, PA. We have released 3 records in the past 2 years and have done a bunch of tours. WE FUCKING LOVE TO PLAY MUSIC. Thanks for reading!				</description>
+    <songURL>http://www.thefestfl.com/fest9/uploads/band-songs/02_shut_up_the_fuck_up.mp3</songURL>
+    <albumArtURL>http://www.thefestfl.com/fest9//</albumArtURL>
+    <songName>Shut The Fuck Up</songName>
+    <shows>
+      <show>
+        <date>2010-10-30 18:20</date>
+        <length>25</length>
+        <venue>Spin Cycle</venue>
+        <acoustic>false</acoustic>
+      </show>
+    </shows>
+  </band>
+  <band>
+    <name>A Wilhelm Scream</name>
+    <photo>/fest9/img/../uploads/band-photos/feature.AWS.jpg</photo>
+    <mp3></mp3>
+    <description>How does one gauge the success of a band pushing the envelope of a genre that receives little to no credit by the mainstream media? In the case of A Wilhelm Scream, the answer is âWho cares?â â As a band playing punk rock for over a decade, original members Trevor Reilly, Nuno Pereira and Nick Angelini havenât focused on success, image or whatever bandwagon a group can jump on to get their music into the ears of listeners: Itâs the ideal of music from an honest place, playing to the kids who want to hear more than a simple love song, or want an opinion rammed down their throats.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Within this ongoing endeavor, AWS has recruited the talents of Brian Robinson (bass) and Mike Supina (guitar); Two Great-Lakers who have strived to help develop the band into the most musically-diverse lineup theyâve had to date, touring all over the World in over 20 countries from Russia to Tasmania in support of their 2007 release âCareer Suicideâ (NitroRecords). &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+After spending a few months at home developing a follow-up self-titled EP, AWS is back on the road to deliver punk rock that promises to cater to the kids who are fed up with âeverything elseâ. 				</description>
+    <songURL></songURL>
+    <albumArtURL></albumArtURL>
+    <songName></songName>
+    <shows>
+      <show>
+        <date>2010-10-29 22:10</date>
+        <length>40</length>
+        <venue>The Venue</venue>
+        <acoustic>false</acoustic>
+      </show>
+    </shows>
+  </band>
+</thefest>

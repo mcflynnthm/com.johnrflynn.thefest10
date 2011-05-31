@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, XMLTest!</string>
+    <string name="app_name">The Fest 10</string>
+    <string name="festTitle">Welcome to\nthe Fest 10!</string>
+</resources>

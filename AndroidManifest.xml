@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.johnrflynn.thefest10" android:versionName="0.6" android:versionCode="2">
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".TheFest10"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="ByBand"
+        		  android:label="Bands">
+        </activity>
+        
+        <activity android:name="ByVenue"
+        		  android:label="Venues">
+        </activity>
+        
+        <activity android:name="VenuePage" android:label="@string/app_name" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        
+        <activity android:name="ByDate"
+        		  android:label="@string/app_name"
+        		  android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        
+        <activity android:name="DateFriday" android:label="@string/app_name"></activity>
+        <activity android:name="DateSat" android:label="@string/app_name"></activity>
+		<activity android:name="DateSun" android:label="@string/app_name"></activity>
+        
+        <activity android:name="BandPage"
+        		  android:label="Band"
+        		  android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        
+        <activity android:name="Schedule"
+        		  android:label="My Schedule"></activity>
+
+    </application>
+</manifest>
