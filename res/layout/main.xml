@@ -7,7 +7,7 @@
     >
 <ImageView
 	android:id="@+id/mainTitle"
-	android:src="@drawable/fest9_logo"
+	android:src="@drawable/fest10_logo_app"
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
     android:text="@string/festTitle"
